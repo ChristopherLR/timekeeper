@@ -1,2 +1,2 @@
-# timekeeper
-A tool that i plan to use and update to optimise my workflow
+# TimeKeeper
+A tool that I plan to develop as a means to optimise my workflow.
